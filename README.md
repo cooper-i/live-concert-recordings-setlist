@@ -29,3 +29,41 @@ beyonce/2018-coachella/
 metadata/
 metadata.csv
 README.md
+
+## Metadata Standard
+The repository uses a simplified schema based on Dublin Core:
+- Identifier  
+- Artist  
+- Title  
+- Date (ISO)  
+- Venue  
+- Description  
+- Source / Provenance  
+- Rights  
+- Formats  
+- Persistent URL  
+
+## Rights & Copyright
+This repository **does not host any full copyrighted audio or video recordings**.  
+It only includes:
+- Metadata created by Cooper Irwin  
+- Original descriptions  
+- Setlists in text form  
+- Links to authorized official recordings when applicable  
+
+Recordings remain the property of their respective rights holders.
+
+## Users
+Primary audiences for this repository include:
+- Music historians  
+- Educators  
+- Fans and independent researchers  
+- Musicians studying live performance evolution  
+
+## Citation
+When citing this repository, please use:  
+*Irwin, C. (2025). Live Concert Recordings and Setlists Repository. GitHub. https://github.com/cooper-i/live-concert-recordings-setlists*
+
+## Contact
+Maintained by: **Cooper Irwin**  
+Email: cooperirwin@my.unt.edu
