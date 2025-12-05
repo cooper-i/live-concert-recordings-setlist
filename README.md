@@ -62,7 +62,7 @@ Primary audiences for this repository include:
 
 ## Citation
 When citing this repository, please use:  
-*Irwin, C. (2025). Live Concert Recordings and Setlists Repository. GitHub. https://github.com/cooper-i/live-concert-recordings-setlists*
+*Irwin, C. (2025). Live Concert Recordings and Setlists Repository. GitHub. https://github.com/cooper-i/live-concert-recordings-setlist*
 
 ## Contact
 Maintained by: **Cooper Irwin**  
