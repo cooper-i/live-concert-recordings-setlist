@@ -3,12 +3,12 @@ Created by Cooper Irwin
 INFO 4730 Project – Digital Curation & Preservation  
 
 ## Overview
-This repository preserves and organizes a curated selection of historically significant live concert performances and their setlists. It applies core digital curation principles—structured metadata, provenance tracking, version control, and sustainability—to ensure that these materials remain accessible and interpretable for researchers, educators, fans, and music historians.
+This repository preserves and organizes a curated selection of historically significant live concert performances and their setlists. It applies core digital curation principles—structured metadata, provenance tracking, version control, and sustainability to ensure that these materials remain accessible and interpretable for researchers, educators, fans, and music historians.
 
 This repository includes:
 - Five curated concerts (metadata + setlists + documentation)
 - A centralized Dublin-Core–inspired metadata file (`metadata/metadata.csv`)
-- Artist → Concert folder hierarchy
+- Artist -> Concert folder hierarchy
 - Clear rights statements and provenance for each item  
 - A preservation-minded structure using open formats (CSV, MD)
 
